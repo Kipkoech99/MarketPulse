@@ -1,8 +1,8 @@
-# Alpha Trade - Oil Web App
+# MarketPulse - Oil Web App
 
 ## Overview
 
-Alpha Trade is a web application designed to provide users with historical data and insights on various commodities, including crude oil (WTI and Brent), copper, aluminium, and natural gas. The platform offers users the ability to track historical performance, analyze market trends, and stay informed about news and developments in the energy sector. Additionally, users can subscribe to newsletters for regular updates on commodity prices and market trends.
+MarketPulse is a web application designed to provide users with historical data and insights on various commodities, including crude oil (WTI and Brent), copper, aluminium, and natural gas. The platform offers users the ability to track historical performance, analyze market trends, and stay informed about news and developments in the energy sector. Additionally, users can subscribe to newsletters for regular updates on commodity prices and market trends.
 
 ## Features
 
@@ -33,7 +33,7 @@ Alpha Trade is a web application designed to provide users with historical data 
 
 ## Installation
 
-1. Clone the repository from https://github.com/wellingtonmwadali/alpha_trade.
+1. Clone the repository from https://github.com/Kipkoech99/MarketPulse.git.
 2. Install dependencies using `npm install`.
 3. Set up a MongoDB database and configure the connection string in the backend.
 4. Run the development server using `npm start`.
@@ -48,7 +48,7 @@ This project is licensed under the [License Name] License - see the [LICENSE.md]
 
 ## Contact
 
-For inquiries or support, please contact Wellington at wellingtonmwadali@gmail.com.
+For inquiries or support, please contact Kipkoech at kipkoechevans99@@gmail.com.
 
 ---
 
